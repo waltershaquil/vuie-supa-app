@@ -43,7 +43,7 @@ const Header = ({ setCurrentView }) => {
           className="text-3xl font-bold cursor-pointer"
           onClick={() => setCurrentView("products")}
         >
-          Vouie boutique
+          Vuie boutique
         </h1>
         <nav className="flex items-center space-x-4">
           <button

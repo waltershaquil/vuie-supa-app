@@ -92,7 +92,7 @@ const App = () => {
         <main className="pb-16">{renderView()}</main>
         <footer className="bg-pink-700 text-white text-center p-6 mt-auto">
           <p>
-            &copy; {new Date().getFullYear()} Vouie boutique. Todos os direitos
+            &copy; {new Date().getFullYear()} Vuie boutique. Todos os direitos
             reservados.
           </p>
           <p className="text-sm mt-1">Peças únicas com história.</p>
